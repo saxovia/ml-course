@@ -1,7 +1,7 @@
 # ml-course
 Machine Learning Course material from Aalto University
 
-This material will include my personal project and mock paper on Predicting Mortality in Heart Failure Patients with Logistic Regression and SVC.
+❕❕⚠ This material will include my personal project and mock paper on **Predicting Mortality in Heart Failure Patients with Logistic Regression and SVC**.<br>
 Achieved perfect grade on the project.
 
 ## Learning Outcomes
